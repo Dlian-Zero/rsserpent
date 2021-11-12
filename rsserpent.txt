@@ -1,3 +1,3 @@
 rsserpent
 rsserpent-plugin-bilibili @ git+https://github.com/RSSerpent/rsserpent-plugin-bilibili.git
-rsserpent-plugin-bilibili @ git+https://https://github.com/wdssmq/rsserpent_plugin_manhuagui.git
+rsserpent-plugin-manhuagui @ git+https://https://github.com/wdssmq/rsserpent_plugin_manhuagui.git
